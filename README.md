@@ -1,5 +1,5 @@
 
-# Pedestrian Detection Project
+# Pedestrian Detection using yolov4 model
 
 This project implements a pedestrian detection system using the YOLO model and OpenCV. The model is capable of detecting people in real-time using a webcam feed.
 
