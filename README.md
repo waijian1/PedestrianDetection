@@ -14,7 +14,7 @@ This project implements a pedestrian detection system using the YOLO model and O
 
 1. Clone the repository:
    ```
-   git clone <repository-url>
+   git clone https://github.com/waijian1/PedestrianDetection.git
    ```
 2. Install the required packages:
    ```
